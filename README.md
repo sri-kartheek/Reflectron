@@ -34,14 +34,10 @@ The system uses a modular design where the Raspberry Pi collects and processes d
 ```
 Reflectron/
 ├── images/              # Snapshots of prototype
-├── code/                # Python source files
-├── docs/                # Project report and references
+├── main.py                # Python source files
+├── Reflectron_doc                # Project report and references
 ├── README.md
 ```
-
-## 📽️ Demo
-
-> Add GIFs or video links showing live demo here (if available)
 
 ## 🧪 Future Enhancements
 
